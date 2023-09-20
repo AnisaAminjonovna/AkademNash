@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Gasoek+One&family=Open+Sans:wght@400;500;600;700;800&family=Roboto+Condensed:wght@400;700&family=Roboto:ital,wght@1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Gasoek One', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.section__2{
+    width: 1520px;
+    height: 946px;
+    border: 2px solid blue;
+    margin-top: 100px;
+
+    .txt__3{
+
+        h1{
+            width: 500px;
+            font-size: 70px;
+            line-height: 86px;
+            letter-spacing: 0.5px;
+            padding-left: 100px;
+        }
+    }
+}
+
